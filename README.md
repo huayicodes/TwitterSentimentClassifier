@@ -1,4 +1,4 @@
-# Twitter Sentiment Classification
+# Twitter Sentiment Classifier
 
 ### Project Overview
 **Motivation:** Social media has become an indispensable platform for many businesses to directly interact with consumers and to market products. Using AI to automatically identify whether a tweet is a positive or negative response allows businesses to quickly grasp customer reactions without going through every tweet. 
