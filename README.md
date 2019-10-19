@@ -8,7 +8,7 @@
 ### Project Details 
 **The Data**: This big dataset contains 1600k tweets with labeled polarity.
 - polarity labels: 0 = negative, 4 = positive <br>
-- http://help.sentiment140.com/for-students <br>
+- source: http://help.sentiment140.com/for-students <br>
 
 **The Model**: Using a small subset (5%) of the total data, I compared a Naive Bayes model with a Logistic Regression model. The two models have similar performance, but Logistic Regression won by a tad. With this Logistic Regression model, I can classify the polarity of a tweet with 77% accuracy. This is a great performance considering that human analysts only agree around 80-85% of the time. 
 
